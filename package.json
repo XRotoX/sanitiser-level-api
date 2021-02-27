@@ -6,7 +6,7 @@
   "scripts": {
     "test": "nodemon index.js"
   },
-  "author": "Rotoo & Aya",
+  "author": "Rotoo & Aya & Hassan & Azzidine",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",

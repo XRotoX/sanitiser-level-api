@@ -8,7 +8,7 @@ app.use(express.json());
 
 const sanitiserRoute = require("./routes/sanitiser");
 
-app.use("/sanitiser", sanitiserRoute);
+app.use("/api/sanitiser", sanitiserRoute);
 
 
 
