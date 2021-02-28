@@ -4,7 +4,8 @@
   "description": "Track your local store data in realtime",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Rotoo & Aya & Hassan & Azzidine",
   "license": "MIT",
